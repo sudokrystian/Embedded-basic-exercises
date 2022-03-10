@@ -1,0 +1,30 @@
+﻿  ListImpl.c
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\ListImpl.c(158,14): warning C4047: 'return': 'uint16_t' differs in levels of indirection from 'void *'
+  Main.c
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(10,29): warning C4022: 'list_addItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(11,29): warning C4022: 'list_addItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(12,29): warning C4022: 'list_addItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(13,29): warning C4022: 'list_addItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(14,29): warning C4022: 'list_addItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(15,29): warning C4022: 'list_addItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(23,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(23,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(27,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(27,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(29,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(29,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(31,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(31,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(34,32): warning C4022: 'list_removeItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(36,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(36,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(38,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(38,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(40,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(40,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(42,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(42,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(44,34): warning C4047: 'function': 'void **' differs in levels of indirection from 'int *'
+E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Main.c(44,34): warning C4022: 'list_getItem': pointer mismatch for actual parameter 2
+  Generating Code...
+  LinkedListImpl.vcxproj -> E:\szkola\semester4\C\6.1 ListImpl\LinkedListImpl\Debug\LinkedListImpl.exe

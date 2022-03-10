@@ -1,0 +1,4 @@
+﻿  temperature_sensor.c
+E:\szkola\semester4\C\6.3 RoomExercise\6.3 RoomExercise\6.3 RoomExercise\temperature_sensor.c(9,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\szkola\semester4\C\6.3 RoomExercise\6.3 RoomExercise\6.3 RoomExercise\temperature_sensor.c(13,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  6.3 RoomExercise.vcxproj -> E:\szkola\semester4\C\6.3 RoomExercise\6.3 RoomExercise\Debug\6.3 RoomExercise.exe
